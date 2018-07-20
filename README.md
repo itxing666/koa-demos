@@ -13,10 +13,10 @@ v8.0.0
 
 Koa requires node v7.6.0+. If your version is older than that, upgrade Node first.
 
-Then clone the repo (or download [zip file](https://github.com/ruanyf/koa-demos/archive/master.zip)).
+Then clone the repo (or download [zip file](https://github.com/itxing666/koa-demos/archive/master.zip)).
 
 ```bash
-$ git clone git@github.com:ruanyf/koa-demos.git
+$ git clone git@github.com:itxing666/koa-demos.git
 ```
 
 Install the dependencies.
@@ -26,7 +26,7 @@ $ cd koa-demos
 $ npm install
 ```
 
-Now play with the [source files](https://github.com/ruanyf/koa-demos/tree/master/demos) under the demos directory.
+Now play with the [source files](https://github.com/itxing666/koa-demos/tree/master/demos) under the demos directory.
 
 ## Index
 
